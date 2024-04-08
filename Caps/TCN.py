@@ -1,5 +1,5 @@
+import os
 import pandas as pd
-import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
 # 파일 경로 설정
